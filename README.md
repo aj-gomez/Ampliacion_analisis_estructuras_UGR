@@ -1,1 +1,1 @@
-# Placas_navier_AAE_2024_ugr
+# Placas_Navier_AAE_2024_MSc_ICCP_UGR
